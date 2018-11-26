@@ -8,6 +8,13 @@ body {
 	text-align: center;
 }
 
+h1{
+font-size: 23px;
+	color: #567;
+	background-color: #ECF;
+	text-align: center;
+}
+
 .container {
 	padding: 0;
 	margin-top: 40px;
@@ -51,4 +58,8 @@ input#button {
 img {
 	margin: 20px auto 0 auto;
 	display: block;
+}
+#button, #inputfield{
+color: #567;
+    margin: 10px auto;
 }
